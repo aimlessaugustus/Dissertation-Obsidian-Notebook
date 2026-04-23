@@ -48,4 +48,4 @@ Dataset analysis and frameworks -> implementation and migration strategies. Defi
 
 Try to work on it weekly, ideally. You might not, but plan time effectively. Do not fail your dissertation.
 
-Study Mark (87) and Joe (74) as they went on to do doctorates.
+Study Mark (87) and Joe (74) as they went on to do doctorates, as well as who did what research wise to determine an appropriate supervisor.
