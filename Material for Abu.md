@@ -2,12 +2,10 @@ Introduction
 
 Objectives
 
-Three research gaps
+Three research gaps/Phases
 
-Comp lit review,
+- Comp lit review,
+- Implementation.
+- Evaluation
 
-implementation.
-
-Evaluation
-
-Research questions should be based around the three phases.
+Research questions/objectives should be based around the three phases.
